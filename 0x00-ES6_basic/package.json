@@ -1,0 +1,12 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "## Overview This repository contains exercises focusing on various ES6 features and concepts. Each exercise is designed to provide hands-on practice with ES6 syntax and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
